@@ -5,3 +5,4 @@ joblib
 matplotlib
 openpyxl
 opencv-python-headless
+seaborn
